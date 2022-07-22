@@ -6,11 +6,11 @@ var mysql = require('mysql');
 
 models = {
     mysql: {
-        host: '121.5.218.161',
+        host: 'xxx.xxx.xxx.xxx',
         port: 3306,
         user: 'root',
-        password: 'zcy723',
-        database: 'web'
+        password: 'xxxxxx',
+        database: 'xxx'
     }
 };
 
